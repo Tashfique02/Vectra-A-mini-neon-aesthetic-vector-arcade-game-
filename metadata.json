@@ -1,0 +1,6 @@
+{
+  "name": "Vectra: Gravity Well",
+  "description": "A neon vector arcade game featuring real-time orbital physics, warped gravity grids, and challenging gravitational obstacle courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
